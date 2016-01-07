@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Eleventh Hour]]></title>
         <description><![CDATA[Eleventh Hour]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/eleventh-hour/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 07 Jan 2016 18:52:27 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 07 Jan 2016 20:01:47 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/eleventh-hour/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7174ac16-bacc-4af5-8024-919bb988774d.jpg">]]></description>
+            <link>https://thegrid.ai/eleventh-hour/f33ed1a2-1988-4ee6-814b-b58ed1e7fa55/index.html</link>
+            <guid isPermaLink="false">f33ed1a2-1988-4ee6-814b-b58ed1e7fa55</guid>
+            <pubDate>Thu, 07 Jan 2016 20:01:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA["He who has health has wealth"]]></title>
             <description><![CDATA[<article><h1>"He who has health has wealth"</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4bc86b5013e2c770cf589bbac54b322340214b24.jpg"></article>]]></description>
-            <link>undefinedhe-who-has-health-has-wealth/index.html</link>
+            <link>https://thegrid.ai/eleventh-hour/he-who-has-health-has-wealth/index.html</link>
             <guid isPermaLink="false">e6d42b89-8db4-4145-80c5-e65965a6ab14</guid>
             <pubDate>Thu, 07 Jan 2016 18:52:26 GMT</pubDate>
         </item>
